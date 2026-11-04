@@ -3,17 +3,16 @@ layout: default
 title: Home
 ---
 
-# ~/lutelan
+# About Me
 
-Hey, I'm Lutelan. Welcome to my little corner of the internet.
+Hello everyone, I'm Lutelan, this site will serve as a blog and as a knowledge base for things I do from time to time. CTF problems I solve, cool things I code etc. 
+Hope you have fun reading the posts and learn something new!
 
-I write about cybersecurity, CTFs, Linux, programming, and whatever else I find interesting.
-
-[About Me](/about/) | [GitHub](https://github.com/Lutelan)
+[GitHub](https://github.com/Lutelan)
 
 ---
 
-## ~/blog/posts
+## Posts
 
 {% for post in site.posts %}
 
